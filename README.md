@@ -29,6 +29,7 @@ Follow Felipe at [@felipehoffa](https://twitter.com/felipehoffa).
 ## Videos
 
 - [SQL: Where should the commas go](https://www.youtube.com/watch?v=ppioMSOi2Ho) (5:39)
+- [Playlist](https://www.youtube.com/watch?v=ppioMSOi2Ho&list=PLG1fouPFF9lwF7l0tg81qUoJk4n3H5w5y)
 
 ## Sessions
 
