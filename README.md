@@ -26,7 +26,9 @@ Follow Felipe at [@felipehoffa](https://twitter.com/felipehoffa).
 - [Leading with commas — ugly or efficient? An investigation over 320 GB of SQL code](https://hackernoon.com/winning-arguments-with-data-leading-with-commas-in-sql-672b3b81eac9)
 - [A Google SRE explores GitHub reliability with BigQuery](https://medium.com/google-cloud/sla-slo-explored-with-github-and-bigquery-e6a135919a8e) (SLAs and SLOs with real data)
 
+## Videos
 
+- [SQL: Where should the commas go](https://www.youtube.com/watch?v=ppioMSOi2Ho) (5:39)
 
 ## Sessions
 
