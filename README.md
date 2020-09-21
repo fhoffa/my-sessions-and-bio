@@ -7,7 +7,7 @@ Felipe Hoffa
 
 Data Cloud Advocate @SnowflakeDB. Originally from Chile, now in San Francisco and around the world.
 
-Felipe Hoffa has been Snowflake's Data Cloud Advocate since August 2020. Previously in 2011, he moved from Chile to San Francisco join Google as a Software Engineer. While still at Google, in 2013 he became a Developer Advocate on Data Analytics. His goal is to inspire developers around the world to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the world.
+Felipe Hoffa has been Snowflake's Data Cloud Advocate since August 2020. Previously in 2011, he moved from Chile to San Francisco to join Google as a Software Engineer. While still at Google, in 2013 he became a Developer Advocate on Data Analytics. His goal is to inspire developers around the world to analyze and understand their data in ways they could never before. You can find him in several YouTube videos, blog posts, and conferences around the world.
 
 Follow Felipe at [@felipehoffa](https://twitter.com/felipehoffa).
 
